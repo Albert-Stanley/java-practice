@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Java Practice
 
 Este repositório contém uma coleção de exercícios e desafios resolvidos em **Java**, organizados em diferentes categorias para facilitar o estudo e a prática da linguagem. Aqui você encontrará desde exercícios feitos em sala de aula até desafios do **HackerRank**, simulados e listas de exercícios para aprimorar suas habilidades.
@@ -45,4 +47,4 @@ Contém listas de exercícios organizadas por temas. Cada lista tem um conjunto 
 
 Este repositório foi criado para consolidar todos os exercícios de Java em um único lugar, facilitando o aprendizado e servindo como um guia para prática contínua. 🚀
 
-Seja bem-vindo e bons estudos! 😊
+# Seja bem-vindo e bons estudos! 😊
