@@ -1,4 +1,7 @@
 # Java Practice
+<h3>Matéria ministrada por Alexandre Garcia de Oliveira na Fatec Baixada Santista - Rubens Lara</h3>
+
+Curriculo Lattes do professor: https://buscatextual.cnpq.br/buscatextual/visualizacv.do
 
 Este repositório contém uma coleção de exercícios e desafios resolvidos em **Java**, organizados em diferentes categorias para facilitar o estudo e a prática da linguagem. Aqui você encontrará desde exercícios feitos em sala de aula até desafios do **HackerRank**, simulados e listas de exercícios para aprimorar suas habilidades.
 
