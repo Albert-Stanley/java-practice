@@ -1,9 +1,7 @@
 package com.aula;
 
 import java.util.ArrayList;
-
 public class Radar {
-
     private ArrayList<Carro> carros;
 
     public Radar(){
