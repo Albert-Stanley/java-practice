@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>PRIMEIRA PAGINA</title>
+    <link rel="stylesheet" th:href="@{css/main.css}">
+    <script th:src="@{js/main.js}"></script>
+</head>
+<body>
+    <h1>OLA MUNDO!</h1>
+    <button onclick="ola()">OK</button>
+    <ul>
+        <li><a th:href="@{/p1}">Pagina 1</a></li>
+        <li><a th:href="@{/p2}">Pagina 2</a></li>
+        <li><a th:href="@{/p3}">Pagina 3</a></li>
+    </ul>
+    <img th:src="@{img/pikachu.jpg}" alt="Pikachu">
+</body>
+</html>
