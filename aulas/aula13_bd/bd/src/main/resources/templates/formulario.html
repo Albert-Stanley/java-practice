@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>CADASTRO</title>
+</head>
+<body>
+    <h1>CADASTRO DE CLIENTES</h1>
+    <form th:action="@{/cadastro}" method="POST" th:object="${cliente}">
+        Nome: <input type="text" th:field="*{nome}" ><br>
+        CPF: <input type="text" th:field="*{cpf}" ><br>
+        <input type="submit" value="Cadastrar">
+    </form>
+</body>
+</html>
